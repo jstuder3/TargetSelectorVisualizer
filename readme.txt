@@ -1,0 +1,1 @@
+This tool provides an intuitive visualization for a simple probabilistic target priority selector.
