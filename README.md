@@ -1,6 +1,6 @@
 # Target Selection Visualizer
 
-### This tool provides an intuitive visualization for a simple probabilistic target priority selector.
+### This tool provides an intuitive visualization for a simple AI agent's probabilistic target priority.
 
 ### There's three parameters:
 
