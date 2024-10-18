@@ -1,6 +1,6 @@
 # Target Selection Visualizer
 
-### This tool provides an intuitive visualization for a simple AI agent's probabilistic target priority.
+### This tool provides an intuitive visualization for a simple AI agent's probabilistic target priority. This could be used to have an AI enemy in a video game pick targets realistically.
 
 ### There's three parameters:
 
